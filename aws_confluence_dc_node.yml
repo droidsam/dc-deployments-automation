@@ -11,6 +11,9 @@
     #123456: VT-123 The Message of our Commit
 
     atl_use_system_jdk: true
+    
+    
+    #123456: VT-123 The Message of our Commit
     java_major_version: "8"
     atl_download_format: "tarball"
 
