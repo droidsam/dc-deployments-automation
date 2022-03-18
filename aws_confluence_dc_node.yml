@@ -7,6 +7,8 @@
     atl_product_family: "confluence"
     atl_product_user: "confluence"
     atl_product_edition: "confluence_new"
+    
+    #123456: VT-123 The Message of our Commit
 
     atl_use_system_jdk: true
     java_major_version: "8"
