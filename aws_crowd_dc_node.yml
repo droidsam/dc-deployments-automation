@@ -7,7 +7,7 @@
     atl_product_family: "crowd"
     atl_product_user: "crowd"
     atl_product_edition: "crowd"
-    atl_use_system_jdk: true
+    atl_use_system_jdk: truesasasa
     atl_download_format: "tarball"
 
     atl_startup_systemd_params:
